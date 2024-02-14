@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ParallelExecutionSuite" parallel="classes">
+    <test name="TestClass1">
+        <classes>
+            <class name="ChangePassword"/>
+        </classes>
+    </test>
+
+    <test name="TestClass2">
+        <classes>
+            <class name="TestSite"/>
+        </classes>
+    </test>
+</suite>
