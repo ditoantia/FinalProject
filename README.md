@@ -44,13 +44,6 @@ This project automates web testing for a website using Java, Maven, Selenium, an
 - Selenium: [Your Selenium Version]
 - Runtime Version: 17.0.9+7-b1000.46 amd64
 
-## Project Structure
-
-selenium-java v4.16.1
-webdrivermanager v5.6.3
-testng v7.9.0
-javafaker v1.0.2
-allure-testng v2.25.0
 
 ## How to Run Tests
 
@@ -60,7 +53,11 @@ allure-testng v2.25.0
 
 ## Dependencies
 
-Specify any external libraries or dependencies required to run the tests.
+selenium-java v4.16.1
+webdrivermanager v5.6.3
+testng v7.9.0
+javafaker v1.0.2
+allure-testng v2.25.0
 
 
 ## Author
