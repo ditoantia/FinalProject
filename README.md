@@ -40,8 +40,6 @@ This project automates web testing for a website using Java, Maven, Selenium, an
 ## Environment
 
 - Java Version: Oracle OpenJDK 21.0.1
-- Maven: [Your Maven Version]
-- Selenium: [Your Selenium Version]
 - Runtime Version: 17.0.9+7-b1000.46 amd64
 
 
